@@ -1,0 +1,57 @@
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Bot Application1.dll.config
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Bot Application1.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Bot Application1.pdb
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Autofac.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Chronic.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.Bot.Builder.FormFlow.Json.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.CodeAnalysis.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Newtonsoft.Json.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\System.AppContext.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\System.Collections.Immutable.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\System.IO.FileSystem.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\System.Reflection.Metadata.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\System.Web.Http.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Autofac.xml
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.Bot.Builder.FormFlow.Json.xml
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.CodeAnalysis.xml
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\Newtonsoft.Json.xml
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\System.Collections.Immutable.xml
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\System.Reflection.Metadata.xml
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\System.Web.Http.xml
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\obj\Debug\AzureTSBot.csprojResolveAssemblyReference.cache
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\obj\Debug\Bot Application1.dll
+C:\Users\Stephanie\edX\C# Fundamentals for Absolute Beginners\Chp 2\AzureTSBot\AzureTSBot\obj\Debug\Bot Application1.pdb
