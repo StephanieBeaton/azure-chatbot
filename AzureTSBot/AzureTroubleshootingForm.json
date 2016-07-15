@@ -1,0 +1,21 @@
+﻿{
+   "properties": {
+    "Question": {
+      "Prompt": { "Patterns": [ "What is your answer to {&}? {||}" ] },
+      "Describe": "inciteful question",
+      "Before": [ { "Message": [ "Welcome to the Azure Troubleshooting bot!" ] } ],
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "Answer1",
+        "Answer2"
+      ],
+      "After": [ { "Message": [ "Thanks selecting an Answer!" ] } ]
+    }
+  },
+  "required": [
+    "Question"
+  ]
+}

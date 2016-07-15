@@ -1,0 +1,25 @@
+﻿{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "OnCompletion": "await context.PostAsync(\"We are currently processing your answer. We will message you the status.\");",
+  "properties": {
+    "Question": {
+      "Prompt": { "Patterns": [ "What is your answer to {&}? {||}" ] },
+      "Describe": "inciteful question",
+      "Before": [ { "Message": [ "Welcome to the Azure Troubleshooting bot!" ] } ],
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "Answer1",
+        "Answer2"
+      ],
+      "After": [ { "Message": [ "Thanks selecting an Answer!" ] } ]
+    }
+  },
+  "required": [
+    "Question"
+  ],
+  "title": "JSON Schema for my JSON file format",
+  "type": "object"
+}
